@@ -1,6 +1,6 @@
 # Analysis of Brexit Polling Data
 
-Created as part of a university module on computing in statistics, this repository contains R code to analyze Brexit polling data, focusing on comparing proportions between "Remain" and "Leave" groups using parametric and non-parametric tests.
+Created as part of a university module on computing in statistics, this repository contains R code to analyse Brexit polling data, focusing on comparing proportions between "Remain" and "Leave" groups using parametric and non-parametric tests.
 
 ## Research Question
 Are the means for "Remain" and "Leave" groups significantly different?
